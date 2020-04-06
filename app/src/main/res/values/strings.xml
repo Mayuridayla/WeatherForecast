@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WeatherForecast</string>
+    <string name="apikey">8473a1f2f1d65bc16f86885a1dd9efee</string>
+    <string name="weather_data_unavailable">weather data unavailable</string>
+    <string name="format_temperature" translatable="false">%1.0f\u00B0</string>
+
+</resources>
